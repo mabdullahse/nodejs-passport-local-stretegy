@@ -1,7 +1,7 @@
 {
   "name": "nodejs-passport-local-stretegy",
   "version": "1.0.0",
-  "description": "Create a Node.js app for building production-ready RESTful APIs using Express, by running one command. This application Passport Local Strategy Usage (Node + Passport + Express + Mongoose + bcrypt).",
+  "description": "Create a Node.js app for building production-ready RESTful APIs using Express, by running one command. This application Passport Local Strategy Usage (Node + Passport + Express + Mongoose + bcrypt)",
   "author": "Muhammad Abdullah <mabdullah.se@gmail.com>",
   "license": "MIT",
   "main": "index.js",
