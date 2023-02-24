@@ -1,14 +1,32 @@
 {
-  "name": "nodejs-passport-jwt",
+  "name": "nodejs-passport-local-stretegy",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create a Node.js app for building production-ready RESTful APIs using Express, by running one command. This application Passport Local Strategy Usage (Node + Passport + Express + Mongoose + bcrypt).",
+  "author": "Muhammad Abdullah <mabdullah.se@gmail.com>",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "node",
+    "node.js",
+    "boilerplate",
+    "generator",
+    "express",
+    "rest",
+    "api",
+    "mongodb",
+    "mongoose",
+    "bcrypt",
+    "connect-mongo",
+    "dotenv",
+    "express",
+    "express-session",
+    "mongoose",
+    "passport",
+    "passport-local"
+  ],
   "dependencies": {
     "bcrypt": "^5.1.0",
     "connect-mongo": "^4.6.0",
