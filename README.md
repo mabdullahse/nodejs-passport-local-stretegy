@@ -3,6 +3,8 @@
 
 NodeJS application Passport Local Strategy Usage (Node + Passport + Express + Mongoose + bcrypt).
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 "PassportSessionAuth" is a Node.js backend application that provides secure user authentication using Passport Local Strategy, Express-session, and MongoDB integration. The application allows users to register with a username and password, and uses bcrypt to securely hash and store the password in the database.
 
